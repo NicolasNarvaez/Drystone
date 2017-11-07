@@ -1,0 +1,28 @@
+{
+  "name": "drystone",
+  "version": "0.1.0",
+  "description": "A DRY general purpose CMS for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasnarvaez/drystone.git"
+  },
+  "keywords": [
+    "keystone",
+    "dry",
+    "rest",
+    "cms",
+    "nodejs",
+    "django",
+    "drupal"
+  ],
+  "author": "Nicolás Narváez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasnarvaez/drystone/issues"
+  },
+  "homepage": "https://github.com/nicolasnarvaez/drystone#readme"
+}
